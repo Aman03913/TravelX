@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190418569279",
+    "project_id": "travex-510a3",
+    "storage_bucket": "travex-510a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190418569279:android:09ca33870dc84929d9908a",
+        "android_client_info": {
+          "package_name": "com.example.travex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6ivBf2eT3vVFlvmldNPQUVM8crfYVUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
